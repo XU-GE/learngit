@@ -7,3 +7,6 @@ int main()
 	if()
 
 }
+
+Creating a new branch is quick.
+FUCK!
